@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except for demo.ipynb
+!demo.ipynb
+# keep the .gitignore itself
+!.gitignore
